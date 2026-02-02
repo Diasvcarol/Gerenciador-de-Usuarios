@@ -1,2 +1,2 @@
-let userController = new UserController("form-user-create", "table-users"); // Cria uma nova instancia da classe UserController, passando o id do formulario e a tabela como parametros, 
+let userController = new UserController("form-user-create", "form-user-update", "table-users"); // Cria uma nova instancia da classe UserController, passando o id do formulario e a tabela como parametros, 
 // "Amarrando" o formulario e a tabela ao controller

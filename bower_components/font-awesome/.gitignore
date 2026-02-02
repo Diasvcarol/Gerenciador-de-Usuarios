@@ -4,6 +4,7 @@
 *.db.old
 *.swp
 *.db-journal
+*.txt
 
 .coverage
 .DS_Store
@@ -31,3 +32,4 @@ stunnel.log
 
 .ruby-version
 .bundle
+
